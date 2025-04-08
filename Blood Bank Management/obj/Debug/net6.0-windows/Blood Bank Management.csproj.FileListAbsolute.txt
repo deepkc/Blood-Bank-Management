@@ -1,0 +1,30 @@
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\bin\Debug\net6.0-windows\Blood Bank Management.exe
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\bin\Debug\net6.0-windows\Blood Bank Management.deps.json
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\bin\Debug\net6.0-windows\Blood Bank Management.runtimeconfig.json
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\bin\Debug\net6.0-windows\Blood Bank Management.dll
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\bin\Debug\net6.0-windows\Blood Bank Management.pdb
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood Bank Management.csproj.AssemblyReference.cache
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood_Bank_Management.frmHome.resources
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood_Bank_Management.Properties.Resources.resources
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood Bank Management.csproj.GenerateResource.cache
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood Bank Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood Bank Management.AssemblyInfoInputs.cache
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood Bank Management.AssemblyInfo.cs
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood Bank Management.csproj.CoreCompileInputs.cache
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood Bank Management.dll
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\refint\Blood Bank Management.dll
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood Bank Management.pdb
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood Bank Management.genruntimeconfig.cache
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\ref\Blood Bank Management.dll
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\bin\Debug\net6.0-windows\Blood Bank Management.dll.config
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood_Bank_Management.UI.Form1.resources
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Interop.CompressLib.dll
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood Bank Management.csproj.ResolveComReference.cache
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood Ba.E982F148.Up2Date
+C:\Users\kiran\source\repos\Blood Bank Management\Blood Bank Management\obj\Debug\net6.0-windows\Blood_Bank_Management.UI.frmDONORS.resources

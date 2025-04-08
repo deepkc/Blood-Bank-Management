@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\blood bank management\\ui\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|solutionrelative:blood bank management\\ui\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|c:\\users\\kiran\\source\\repos\\blood bank management\\blood bank management\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|solutionrelative:blood bank management\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|c:\\users\\kiran\\source\\repos\\blood bank management\\blood bank management\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|solutionrelative:blood bank management\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\blood bank management\\ui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|solutionrelative:blood bank management\\ui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|c:\\users\\kiran\\source\\repos\\blood bank management\\blood bank management\\ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|solutionrelative:blood bank management\\ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|c:\\users\\kiran\\source\\repos\\blood bank management\\blood bank management\\ui\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|solutionrelative:blood bank management\\ui\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|c:\\users\\kiran\\source\\repos\\blood bank management\\blood bank management\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|solutionrelative:blood bank management\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|c:\\users\\kiran\\source\\repos\\blood bank management\\blood bank management\\dal\\donardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|solutionrelative:blood bank management\\dal\\donardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|c:\\users\\kiran\\source\\repos\\blood bank management\\blood bank management\\ui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|solutionrelative:blood bank management\\ui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|c:\\users\\kiran\\source\\repos\\blood bank management\\blood bank management\\bll\\donorbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|solutionrelative:blood bank management\\bll\\donorbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|c:\\users\\kiran\\source\\repos\\blood bank management\\blood bank management\\ui\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1BD225-724D-4CDD-BA32-B10F3B755BF1}|Blood Bank Management\\Blood Bank Management.csproj|solutionrelative:blood bank management\\ui\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "Blood Bank Management\\UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\Form1.cs",
+              "RelativeToolTip": "Blood Bank Management\\UI\\Form1.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAUwKIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:53:09.392Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\App.config",
+              "RelativeDocumentMoniker": "Blood Bank Management\\App.config",
+              "ToolTip": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\App.config",
+              "RelativeToolTip": "Blood Bank Management\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-14T05:10:09.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\Form2.cs",
+              "RelativeDocumentMoniker": "Blood Bank Management\\UI\\Form2.cs",
+              "ToolTip": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\Form2.cs [Design]",
+              "RelativeToolTip": "Blood Bank Management\\UI\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:15:38.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Blood Bank Management\\UI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\Form1.Designer.cs",
+              "RelativeToolTip": "Blood Bank Management\\UI\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:10:09.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\frmHome.cs",
+              "RelativeDocumentMoniker": "Blood Bank Management\\UI\\frmHome.cs",
+              "ToolTip": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\frmHome.cs [Design]",
+              "RelativeToolTip": "Blood Bank Management\\UI\\frmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:57:10.076Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Blood Bank Management\\UI\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\Form2.Designer.cs",
+              "RelativeToolTip": "Blood Bank Management\\UI\\Form2.Designer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAqwHMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:56:36.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "donarDAL.cs",
+              "DocumentMoniker": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\DAL\\donarDAL.cs",
+              "RelativeDocumentMoniker": "Blood Bank Management\\DAL\\donarDAL.cs",
+              "ToolTip": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\DAL\\donarDAL.cs",
+              "RelativeToolTip": "Blood Bank Management\\DAL\\donarDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:22:06.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "donorBLL.cs",
+              "DocumentMoniker": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\BLL\\donorBLL.cs",
+              "RelativeDocumentMoniker": "Blood Bank Management\\BLL\\donorBLL.cs",
+              "ToolTip": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\BLL\\donorBLL.cs",
+              "RelativeToolTip": "Blood Bank Management\\BLL\\donorBLL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:26:38.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\Form2.cs",
+              "RelativeDocumentMoniker": "Blood Bank Management\\UI\\Form2.cs",
+              "ToolTip": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\Form2.cs",
+              "RelativeToolTip": "Blood Bank Management\\UI\\Form2.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAiwJgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:13:26.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "Blood Bank Management\\UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\Form1.cs [Design]",
+              "RelativeToolTip": "Blood Bank Management\\UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:10:13.433Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmHome.cs",
+              "DocumentMoniker": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\frmHome.cs",
+              "RelativeDocumentMoniker": "Blood Bank Management\\UI\\frmHome.cs",
+              "ToolTip": "C:\\Users\\kiran\\source\\repos\\Blood Bank Management\\Blood Bank Management\\UI\\frmHome.cs",
+              "RelativeToolTip": "Blood Bank Management\\UI\\frmHome.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:57:13.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
